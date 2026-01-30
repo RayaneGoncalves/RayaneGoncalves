@@ -38,7 +38,7 @@
     Java+%7C+SQL+%7C+HTML+%7C+Python+%28basic%29;
     Intermediate+English+%7C+Basic+Korean;
     Nice+to+meet+you!+%E2%9C%A8"
-    alt="Typing SVG"
+    
   />
 </p>
 
