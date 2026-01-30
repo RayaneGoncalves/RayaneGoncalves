@@ -39,7 +39,6 @@
     Intermediate+English+%7C+Basic+Korean;
     Nice+to+meet+you!+%E2%9C%A8"
     
-  />
 </p>
 
 <br><br>
