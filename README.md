@@ -42,7 +42,7 @@
 </p>
 
 <br><br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanegoncalves)](https://github.com/rayanegoncalves/github-readme-stats)
 <p align="center">
   🌸 Let’s connect 🌸
 </p>
