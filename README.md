@@ -1,23 +1,89 @@
-## Hi there! 🌸💻
+<h1 align="center">🌸✨ Hello, I'm Rayane ✨🌸</h1>
 
-
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
-<br> 
 <p align="center">
-  ✨ Welcome to my little corner on GitHub ✨  
-  <br>
-  🌷 Dev em construção, com muito carinho 🌷
+  <i>「 a dreamy developer in progress... 」</i><br>
+  <i>「 código com carinho e café ☕ 」</i>
 </p>
 
-<br>
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Rayane+;I'm+23+years+old;I'm+a+ADS+Student;and+i'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+<div align="center">
 
-<br>
-<br>
+<svg width="320" height="160" viewBox="0 0 320 160" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Fundo suave -->
 
-<a href="mailto:cmp.1a.rayanedeoliveiragoncalves123@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
+  <rect width="100%" height="100%" fill="#fff5f7"/>
+
+  <!-- Margarida -->
+
+  <g transform="translate(250,90)">
+    <circle r="10" fill="#f6c177"/>
+    <g fill="#fff">
+      <ellipse cx="0" cy="-18" rx="6" ry="12"/>
+      <ellipse cx="0" cy="18" rx="6" ry="12"/>
+      <ellipse cx="-18" cy="0" rx="12" ry="6"/>
+      <ellipse cx="18" cy="0" rx="12" ry="6"/>
+      <ellipse cx="12" cy="-12" rx="6" ry="10"/>
+      <ellipse cx="-12" cy="12" rx="6" ry="10"/>
+      <ellipse cx="-12" cy="-12" rx="6" ry="10"/>
+      <ellipse cx="12" cy="12" rx="6" ry="10"/>
+    </g>
+  </g>
+
+  <!-- Abelha -->
+
+  <g id="bee">
+    <!-- corpo -->
+    <ellipse cx="0" cy="0" rx="10" ry="7" fill="#fcd34d"/>
+    <rect x="-6" y="-7" width="3" height="14" fill="#000"/>
+    <rect x="2" y="-7" width="3" height="14" fill="#000"/>
+
+```
+<!-- asas -->
+<ellipse cx="-5" cy="-10" rx="5" ry="8" fill="#e0f2fe" opacity="0.8">
+  <animateTransform attributeName="transform" type="rotate"
+    values="0 -5 -10;25 -5 -10;0 -5 -10"
+    dur="0.25s" repeatCount="indefinite"/>
+</ellipse>
+
+<ellipse cx="5" cy="-10" rx="5" ry="8" fill="#e0f2fe" opacity="0.8">
+  <animateTransform attributeName="transform" type="rotate"
+    values="0 5 -10;-25 5 -10;0 5 -10"
+    dur="0.25s" repeatCount="indefinite"/>
+</ellipse>
+
+<!-- movimento -->
+<animateMotion dur="5s" repeatCount="indefinite"
+  keyTimes="0;0.7;1"
+  keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+  calcMode="spline"
+  path="M20,80 C100,10 180,140 240,90 L250,90"/>
+```
+
+  </g>
+
+</svg>
+
+</div>
+
+---
+
+<p align="center">
+  💌 24 anos • Brasil <br>
+  🎓 Estudante de ADS <br>
+  🌷 aprendendo um pouquinho todo dia  
+</p>
+
+---
+
+<p align="center">
+  💗 <i>“little steps every day still move you forward”</i> 💗
+</p>
+
+---
+
+<p align="center">
+  🌼 obrigada por visitar meu cantinho 🌼
+</p>
+
