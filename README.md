@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=400&size=42&duration=5000&pause=1200&color=D96C9F&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+eu+sou+a+Rayane+%F0%9F%8C%B7;Tenho+23+anos;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia+%E2%99%A1;Seja+bem-vindo+ao+meu+cantinho!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=400&size=42&duration=5000&pause=1200&color=D96C9F&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+eu+sou+a+Rayane+%F0%9F%8C%B7;Tenho+24+anos;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia+%E2%99%A1;Seja+bem-vindo+ao+meu+cantinho!" alt="Typing SVG" />
 </p>
 
 <br>
